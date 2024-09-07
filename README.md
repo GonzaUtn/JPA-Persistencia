@@ -1,4 +1,2 @@
-Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+Se realiza Proyeco con implementacion JPA mediante el framework HIbernate.
+Se crearon varias intedades para poder demostrar la persistencia de las mismas mediante una base de datos H2
